@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Application -->
+
+    <string name="app_name">DTT Real Estate</string>
+
+    <!-- Fragments -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_number">00</string>
+    <string name="default_km">0000.0 km</string>
+
+    <!-- Information Fragment -->
+
+    <string name="corpus">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+        tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+        et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+        ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+        accusam et justo duo dolores et ea rebum. . Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+        ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+        accusam et justo duo dolores et ea rebum.</string>
+    <string name="design_and_development">Design and Development</string>
+    <string name="about">ABOUT</string>
+    <string name="hyperlink"><a href="https://www.d-tt.nl/">d-tt.nl</a></string>
+    <string name="by_dtt">by DTT</string>
+
+    <!-- Home Fragment -->
+
+    <string name="search_hint">Search for a home</string>
+    <string name="Home">Home</string>
+    <string name="default_address">1011KH Raamgrach</string>
+    <string name="search_empty_1">No results found!</string>
+    <string name="search_empty_2">Perhaps try another search?</string>
+
+    <!-- HouseDetail Fragment -->
+
+    <string name="default_price">$45,000</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+
+
+    <string name="info">About</string>
+
+</resources>

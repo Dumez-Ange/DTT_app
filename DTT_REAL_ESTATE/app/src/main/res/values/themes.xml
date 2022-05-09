@@ -1,0 +1,18 @@
+<resources >
+    <!-- Base application theme. -->
+    <style name="Theme.DTT" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_gray</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/red</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/light</item>
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">@color/light</item>
+
+
+
+    </style>
+</resources>
